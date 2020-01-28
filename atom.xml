@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hahazifengzi.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-01-28T16:17:36.156Z</updated>
+    <title>HAHA</title>
+    <updated>2020-01-28T16:20:33.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hahazifengzi.github.io"/>
     <link rel="self" href="https://hahazifengzi.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>生机勃勃、根植于生活</subtitle>
     <logo>https://hahazifengzi.github.io/images/avatar.png</logo>
     <icon>https://hahazifengzi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, HAHA</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hahazifengzi.github.io/post/hello-gridea</id>
